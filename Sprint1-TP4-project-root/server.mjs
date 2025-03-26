@@ -13,12 +13,10 @@ const port = 3005;
 // Recibe un ID de superhéroe y devuelve los datos de ese superhéroe
 app.get('/superheroes/id/:id', obtenerSuperheroesPorIDController);
 
-// Recibe un "atributo y un valor", devuelve una lista de superhéroes 
-// que cumplen con el criterio.
+// Recibe un atributo y un valor, devuelve una lista de superhéroes que cumplen con el criterio.
 app.get('/superheroes/atributo/:atributo/:valor', buscarSuperheroesPorAtributoController);
 
-// Devuelve una lista de superhéroes mayores de 30 años que  
-// además sean del planeta Tierra y tengan al menos 2 poderes.
+// Devuelve una lista de superhéroes mayores de 30 años que además sean del planeta Tierra y tengan al menos 2 poderes.
 app.get('/superheroes/edad/:mayorA30', obtenerSuperheroesMayoresDe30Controller);
 
 

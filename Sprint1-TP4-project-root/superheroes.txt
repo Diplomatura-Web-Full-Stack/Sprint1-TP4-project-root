@@ -7,16 +7,10 @@
     "edad": 3,
     "planetaOrigen": "Isla del Tesoro Olvidado",
     "debilidad": "El cambio de pañal inesperado",
-    "poder": [
-      "Rastreo infalible de tesoros (biberones y chupetes de oro)"
-    ],
+    "poder": ["Rastreo infalible de tesoros (biberones y chupetes de oro)"],
     "habilidadEspecial": "Pirata del sigilo: puede moverse sin despertar a nadie",
-    "aliado": [
-      "El Pulpo Mordelón (un peluche con múltiples tentáculos que ayuda a recuperar tesoros robados)"
-    ],
-    "enemigo": [
-      "El Barón del Insomnio (líder de los piratas que roban los tesoros para mantener a los bebés despiertos)"
-    ]
+    "aliado": ["El Pulpo Mordelón (un peluche con múltiples tentáculos que ayuda a recuperar tesoros robados)"],
+    "enemigo": ["El Barón del Insomnio (líder de los piratas que roban los tesoros para mantener a los bebés despiertos)"]
   },
   {
     "id": 2,
@@ -26,16 +20,10 @@
     "edad": 1.5,
     "planetaOrigen": "Reino de las Sábanas Mágicas",
     "debilidad": "El bostezo gigante (cuando le da mucho sueño, pierde fuerzas)",
-    "poder": [
-      "Viajar a través de los sueños de los bebés"
-    ],
+    "poder": ["Viajar a través de los sueños de los bebés"],
     "habilidadEspecial": "Toque calmante (con solo tocar a un bebé en una pesadilla, lo tranquiliza instantáneamente)",
-    "aliado": [
-      "La Nana Luminosa (una pequeña luz flotante que lo guía en las misiones nocturnas)"
-    ],
-    "enemigo": [
-      "El Duende del Desvelo (una criatura traviesa que esconde chupetes y vacía mamaderas para causar caos nocturno)"
-    ]
+    "aliado": ["La Nana Luminosa (una pequeña luz flotante que lo guía en las misiones nocturnas)"],
+    "enemigo": ["El Duende del Desvelo (una criatura traviesa que esconde chupetes y vacía mamaderas para causar caos nocturno)"]
   },
   {
     "id": 3,
@@ -45,16 +33,10 @@
     "edad": 1.8,
     "planetaOrigen": "Babylonia Prime",
     "debilidad": "Un babero seco",
-    "poder": [
-      "Su baba ultraresbaladiza hace que los villanos tropiecen y no puedan atraparlo"
-    ],
+    "poder": ["Su baba ultraresbaladiza hace que los villanos tropiecen y no puedan atraparlo"],
     "habilidadEspecial": "Puede lanzar burbujas babosas que atrapan a sus enemigos",
-    "aliado": [
-      "Migas, el Cachorro Travieso"
-    ],
-    "enemigo": [
-      "Inspector ManosLimpias (revisa que nadie tenga restos de comida en las manos y los obliga a lavarse)"
-    ]
+    "aliado": ["Migas, el Cachorro Travieso"],
+    "enemigo": ["Inspector ManosLimpias (revisa que nadie tenga restos de comida en las manos y los obliga a lavarse)"]
   },
   {
     "id": 4,
@@ -64,16 +46,10 @@
     "edad": 3,
     "planetaOrigen": "Circuitolandia",
     "debilidad": "Cuando se queda sin batería (porque no durmió la siesta)",
-    "poder": [
-      "Con solo tocar algo, lo activa o lo desactiva (luces, juguetes, televisores, celulares, etc.)"
-    ],
+    "poder": ["Con solo tocar algo, lo activa o lo desactiva (luces, juguetes, televisores, celulares, etc.)"],
     "habilidadEspecial": "Es capaz de descifrar cualquier clave o patrón de desbloqueo con su súper toque",
-    "aliado": [
-      "El Control Remoto Viviente (su mejor amigo, que siempre lo ayuda a encender o apagar cosas en momentos críticos)"
-    ],
-    "enemigo": [
-      "La Mamá NO TOQUES (siempre vigilando que no active cosas peligrosas)"
-    ]
+    "aliado": ["El Control Remoto Viviente (su mejor amigo, que siempre lo ayuda a encender o apagar cosas en momentos críticos)"],
+    "enemigo": ["La Mamá NO TOQUES (siempre vigilando que no active cosas peligrosas)"]
   },
   {
     "id": 5,
@@ -83,16 +59,10 @@
     "edad": 4,
     "planetaOrigen": "La Gran Cocina Cósmica",
     "debilidad": "Cuando le dan brócoli sin aviso",
-    "poder": [
-      "Puede invocar lluvias de comida deliciosa para distraer a sus enemigos"
-    ],
-    "habilidadEspecial": "La Mirada Suplicante(con una sola mirada logra que le den más comida)",
-    "aliado": [
-      "La Cuchara Mágica (utensilio encantado que hace que cualquier comida sepa increíble)"
-    ],
-    "enemigo": [
-      "El Malvado Puré sin Sal (intenta quitarle el sabor a todo lo que come)"
-    ]
+    "poder": ["Puede invocar lluvias de comida deliciosa para distraer a sus enemigos"],
+    "habilidadEspecial": "La Mirada Suplicante (con una sola mirada logra que le den más comida)",
+    "aliado": ["La Cuchara Mágica (utensilio encantado que hace que cualquier comida sepa increíble)"],
+    "enemigo": ["El Malvado Puré sin Sal (intenta quitarle el sabor a todo lo que come)"]
   },
   {
     "id": 6,
@@ -102,16 +72,10 @@
     "edad": 4,
     "planetaOrigen": "Juguetópolis",
     "debilidad": "Cuando le piden que guarde sus juguetes",
-    "poder": [
-      "Puede hacer que cualquier juguete cobre vida por unos minutos"
-    ],
+    "poder": ["Puede hacer que cualquier juguete cobre vida por unos minutos"],
     "habilidadEspecial": "Convoca una avalancha de juguetes para escapar de situaciones peligrosas",
-    "aliado": [
-      "Robotín, el Transformable (un juguete que puede convertirse en cualquier herramienta necesaria)"
-    ],
-    "enemigo": [
-      "La Gran Bolsa de los Juguetes Guardados (traga todo lo que está en el suelo y lo hace desaparecer)"
-    ]
+    "aliado": ["Robotín, el Transformable (un juguete que puede convertirse en cualquier herramienta necesaria)"],
+    "enemigo": ["La Gran Bolsa de los Juguetes Guardados (traga todo lo que está en el suelo y lo hace desaparecer)"]
   },
   {
     "id": 7,
@@ -121,16 +85,10 @@
     "edad": 3,
     "planetaOrigen": "Llantópolis",
     "debilidad": "Cuando le dan lo que quiere, pierde su poder",
-    "poder": [
-      "El llanto ultra sónico (hace temblar paredes y desbloquear puertas)"
-    ],
-    "habilidadEspecial": "El Pataleo Sísmico :genera pequeños terremotos que sacuden todo a su alrededor",
-    "aliado": [
-      "Mochi el Osito Dramático (un peluche que aumenta su poder cuando es abrazado)"
-    ],
-    "enemigo": [
-      "El Maestro ‘Ya Fue’ (trata de distraerla para que olvide su berrinche)"
-    ]
+    "poder": ["El llanto ultra sónico (hace temblar paredes y desbloquear puertas)"],
+    "habilidadEspecial": "El Pataleo Sísmico (genera pequeños terremotos que sacuden todo a su alrededor)",
+    "aliado": ["Mochi el Osito Dramático (un peluche que aumenta su poder cuando es abrazado)"],
+    "enemigo": ["El Maestro ‘Ya Fue’ (trata de distraerla para que olvide su berrinche)"]
   },
   {
     "id": 8,
@@ -140,15 +98,48 @@
     "edad": 5,
     "planetaOrigen": "Cronolandia",
     "debilidad": "La hora de dormir lo debilita",
-    "poder": [
-      "Puede adelantar o retrasar el tiempo a voluntad"
-    ],
+    "poder": ["Puede adelantar o retrasar el tiempo a voluntad"],
     "habilidadEspecial": "Ralentiza el tiempo cuando está jugando para que nunca termine la diversión",
-    "aliado": [
-      "Relojin, el Cronómetro Parlante (le avisa cuánto tiempo le queda antes de que lo obliguen a dormir)"
-    ],
-    "enemigo": [
-      "Señor ‘Es Tarde’ (quiere mandarlo a la cama a toda costa)"
-    ]
+    "aliado": ["Relojin, el Cronómetro Parlante (le avisa cuánto tiempo le queda antes de que lo obliguen a dormir)"],
+    "enemigo": ["Señor ‘Es Tarde’ (quiere mandarlo a la cama a toda costa)"]
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactividad",
+    "poder": ["Trepar paredes", "Sentido arácnido", "Super fuerza", "Agilidad"],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": ["Ironman"],
+    "enemigo": ["Duende Verde"]
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": ["Armadura blindada", "Volar", "Lásers"],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": ["Spiderman"],
+    "enemigo": ["Mandarín"]
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": ["Control de trueno", "Fuerza sobrehumana", "Inmortalidad"],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": ["Loki"],
+    "enemigo": ["Hela"]
   }
 ]
