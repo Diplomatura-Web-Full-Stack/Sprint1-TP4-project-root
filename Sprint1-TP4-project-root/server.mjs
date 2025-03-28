@@ -2,16 +2,16 @@ import express from 'express';
 import { 
   buscarSuperheroesPorAtributoController, 
   obtenerSuperheroesMayoresDe30Controller, 
-  obtenerSuperheroesPorIDController 
+  obtenerSuperheroePorIdController, 
 } from './controllers/superheroesController.mjs';
 
 const app = express();
-const port = 3005;
+const PORT = 3005;
 
 // Rutas
 
 // Recibe un ID de superhéroe y devuelve los datos de ese superhéroe
-app.get('/superheroes/id/:id', obtenerSuperheroesPorIDController);
+app.get('/superheroes/id/:id', obtenerSuperheroePorIdController);
 
 // Recibe un atributo y un valor, devuelve una lista de superhéroes que cumplen con el criterio.
 app.get('/superheroes/atributo/:atributo/:valor', buscarSuperheroesPorAtributoController);
